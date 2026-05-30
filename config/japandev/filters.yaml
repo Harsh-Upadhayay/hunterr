@@ -1,0 +1,61 @@
+language_requirements:
+  - japanese: 
+    - level: not required
+    - level: business level
+    - level: fluent
+    - level: conversational
+  
+remote_work:
+  - partial remote
+  - full remote
+  - anywhere in japan
+  - no remote
+  - worldwide
+
+seniority:
+  - senior or above
+  - mid-level
+  - junior 
+  - New Grad
+
+salary:
+  - has salary range
+  - Salary over ¥6M
+  - Salary over ¥8M
+  - Salary over ¥10M
+
+job_type: 
+  - Engineering
+  - Product
+  - Design
+  - Marketing
+  - Others
+  - CS
+
+skills:
+  - Python
+  - AWS
+  - Backend
+  - React
+  - Typescript
+  - Eng - Other
+  - Docker
+  - ML
+  - Web / Full-stack
+  - Kubernetes
+  - Go
+  - Notion
+  - QA
+  - GCP
+  - Github
+  - Ruby
+  - Azure
+  - C++
+  - Javascript
+  - PostgreSQL
+
+location:  
+  - Tokyo
+  - Fukuoka
+  - Other
+  - Osaka
